@@ -2,14 +2,22 @@
 
 /* Elements */
 body {
-    background-color: cadetblue;
+    background-color: whitesmoke;
     font-size: 10pt;
     font-weight: 300;
     color: darkblue;
     width: 100vw;
     height: 100vh;
     margin: 8px;
-    padding: 8px;
+    padding: 0px;
+}
+
+header {
+    background-color: cadetblue;
+    height: auto;
+    margin: 8px;
+    padding: 20px;
+
 }
 
 /* Ids */
