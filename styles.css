@@ -1,9 +1,22 @@
 /* Write your CSS here! */
 
 /* Elements */
-
+body {
+    background-color: cadetblue;
+    font-size: 10pt;
+    font-weight: 300;
+    color: darkblue;
+    width: 100vw;
+    height: 100vh;
+    margin: 8px;
+    padding: 8px;
+}
 
 /* Ids */
+
+#mainHeading {
+    color: red
+}
 
 
 /* Classes */
